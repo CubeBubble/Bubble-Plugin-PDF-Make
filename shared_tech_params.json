@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "AAF": {
+            "name": "Roboto-Regular.ttf",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1668698821008x737956823349787300/Roboto-Regular.ttf"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": "4",
+        "use_jquery": true
+    }
+}

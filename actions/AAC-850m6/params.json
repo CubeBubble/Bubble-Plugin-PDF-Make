@@ -1,0 +1,41 @@
+{
+    "category": "plugins",
+    "display": "Make PDF",
+    "fields": {
+        "AAG": {
+            "caption": "Website Home URL",
+            "doc": "",
+            "editor": "DynamicValue",
+            "name": "websiteHomeUrl",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAH": {
+            "caption": "File Name",
+            "doc": "Choose a file name (ex: document)",
+            "editor": "DynamicValue",
+            "name": "fileName",
+            "rank": 1,
+            "value": "text"
+        },
+        "AAI": {
+            "caption": "Definition",
+            "doc": "{   \"defaultStyle\": {     \"font\": \"Helvetica\"   },   \"content\": [     \"First paragraph\",     \"Another paragraph, this time a little bit longer to make sure, this line will be divided into at least two lines\"   ] }",
+            "editor": "DynamicValue",
+            "long_text": true,
+            "name": "definition",
+            "rank": 2,
+            "value": "text"
+        }
+    },
+    "return_value": {
+        "AAD": {
+            "caption": "File",
+            "name": "file",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "type": "server_side",
+    "use_packages": true
+}

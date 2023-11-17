@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "technical"
+    },
+    "description": "A simple backend PDF generator base on pdfmake javascript library\n\n\nhttp://pdfmake.org/\n\n\nJust configure your pdf in JSON and the file creates and downloads (backend)\n\n\nFonts are limited to: Courier, Helvetica & Times-Roman\n",
+    "image": "//s3.amazonaws.com/appforest_uf/f1668713875838x635062984157556600/PDF_file_icon.svg",
+    "license": "open_source",
+    "name": "PDF Make",
+    "sa_node_version": 18
+}
